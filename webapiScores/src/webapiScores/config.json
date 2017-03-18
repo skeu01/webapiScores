@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "webapiScores"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-webapiScores-41e20717-43e1-47a9-bb1b-327ad53c38d0;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
